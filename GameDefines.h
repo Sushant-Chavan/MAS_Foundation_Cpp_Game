@@ -9,9 +9,9 @@
 #define GAMEDEFINES_H_
 
 /* Configurations for the game */
-const int MAX_WIDTH_OF_BOARD = 25;
-const int MAX_HEIGHT_OF_BOARD = 25;
-const int MAX_NUM_OF_TRAPS = 8;
+const int MAX_WIDTH_OF_BOARD = 10;
+const int MAX_HEIGHT_OF_BOARD = 10;
+const int MAX_NUM_OF_TRAPS = 3;
 const int MAX_DISPLACEMENT_OF_TRAPS = 3;
 
 
